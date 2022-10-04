@@ -1,0 +1,31 @@
+#container {
+   padding-right: 150px ;
+   padding-left: 150px ;
+}
+
+#divider {
+    margin: 120px auto;
+    align-items: center;
+    border-top: 1px solid white;
+    width: 400px;
+}
+
+#interestHeader1{
+    margin-top: 30px;
+    font-size: 180%;
+}
+
+#interestHeader2{
+    font-size: 250%;
+}
+
+#allInterestItems{
+    display: flex;
+    gap: 10rem;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+
+#title {
+    font-size: 150%;
+}
